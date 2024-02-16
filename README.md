@@ -10,7 +10,7 @@ I'm Amey Chopde, a passionate developer and marketer with a keen interest in blo
 - 💡 I enjoy innovating and pushing boundaries, as seen in my project portfolio. I've developed an efficient Inventory Management System by fusing Next.js and MongoDB, leveraging the power of server-side rendering and NoSQL databases.
 - 🚀 In addition to my technical prowess, I've played pivotal roles in marketing events and crafting unique branding strategies. My creative approach has consistently enhanced online presence and market impact for the organizations I've been a part of.
 - 🌱 I believe in continuous learning and exploration, constantly seeking new challenges and opportunities to grow both personally and professionally.
-- 📫 You can reach out to me at amey.chopde27@gmail.com or connect with me on LinkedIn at[![LinkedIn](https://img.shields.io/badge/-Amey%20Chopde-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amey-chopde/)](https://www.linkedin.com/in/amey-chopde/).
+- 📫 You can reach out to me at amey.chopde27@gmail.com or connect with me on LinkedIn at  [![LinkedIn](https://img.shields.io/badge/-Amey%20Chopde-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amey-chopde/)](https://www.linkedin.com/in/amey-chopde/).
 
 ## Let's Connect!
 
