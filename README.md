@@ -4,7 +4,7 @@
 
 I'm Amey Chopde, a passionate developer and marketer with a keen interest in blockchain technology and web development. Here's a bit about me:
 
-- 🎓 I recently graduated with a B-Tech in Information Technology from Vishwakarma Institute of Technology, Pune, where I maintained a commendable CGPA of 8.47.
+- 🎓 I recently graduated with a B-Tech in Information Technology from Vishwakarma Institute of Technology, Pune.
 - 💼 Currently, I'm involved in exciting projects like ITCoin_TheCryptocurrency, where I contribute to establishing secure and decentralized methods for digital asset transfer using blockchain.
 - 🔧 My technical skills include proficiency in Java, JavaScript, SQL, HTML/CSS,ReactJS,AngularJs and Python. I also have experience with developer tools like Git, GitHub, and decentralized application development with Ethereum.
 - 💡 I enjoy innovating and pushing boundaries, as seen in my project portfolio. I've developed an efficient Inventory Management System by fusing Next.js and MongoDB, leveraging the power of server-side rendering and NoSQL databases.
